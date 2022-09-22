@@ -6,6 +6,45 @@
 
 .nav {
   background-color: tan;
+  font-family: sans-serif;
+  border: 2px solid grey;
+  text-align: center;
+  padding: 5px;
+}
+
+.navbar-item {
+  margin: 50px;
+  font-size: 20px;
   color: white;
-  font-family: ;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+.mainbox {
+  padding: 50px 200px 200px 50px;
+  text-align: justify;
+  background-color: oldlace;
+  font-size: 1.2em;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 1.6em;
+}
+
+.text-container {
+  margin-bottom: 30px;
+}
+
+.main-img {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
 }
