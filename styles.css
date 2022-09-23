@@ -14,7 +14,7 @@ body {
   background-color: tan;
   font-family: sans-serif;
   text-align: center;
-  box-shadow: 1px 1px 2px 1px grey;
+  box-shadow: 1px 1px 1px grey;
   width: 100%;
   position: fixed;
 }
@@ -58,7 +58,7 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  background-color: seashell;
+  background-color: antiquewhite;
   color: black;
   box-shadow: 1px 1px 2px 1px grey;
   position: fixed;
@@ -71,6 +71,10 @@ footer {
 ul {
   margin: 10px;
   line-height: 2;
+}
+
+.sec {
+  border: 1px solid grey;
 }
 
 .main-img {
